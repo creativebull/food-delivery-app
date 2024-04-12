@@ -24,7 +24,7 @@
 ### 1. Clone the repo:
 
 ```bash
-git clone https://github.com/cydexx/food-delivery-app.git
+git clone https://github.com/creativebull/food-delivery-app.git
 ```
 
 ### 2. Download dependencies:
